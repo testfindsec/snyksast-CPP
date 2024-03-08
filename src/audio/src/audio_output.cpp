@@ -11,6 +11,7 @@
 #include "xstudio/utility/logging.hpp"
 #include <iostream>
 #include <Eigen/Dense>
+ #include <cpr/cpr.h>
 
 using namespace xstudio::audio;
 using namespace xstudio::utility;
