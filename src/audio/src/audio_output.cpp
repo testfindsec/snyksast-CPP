@@ -9,6 +9,8 @@
 #include "xstudio/global_store/global_store.hpp"
 #include "xstudio/utility/chrono.hpp"
 #include "xstudio/utility/logging.hpp"
+#include <iostream>
+#include <Eigen/Dense>
 
 using namespace xstudio::audio;
 using namespace xstudio::utility;
